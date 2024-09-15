@@ -37,8 +37,7 @@ public class Employee_details
 		   Employee_sal=Employee_sal+(Employee_sal*0.1);
 		   
 	   }
-   }
-   
+   } 
    
 }
   
