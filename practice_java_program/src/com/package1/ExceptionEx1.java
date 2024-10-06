@@ -23,9 +23,8 @@ public class ExceptionEx1
 		   System.out.println("finally block executed..");
 		   scr.close();
 	   }
-   }
-   // method 2
-   
+   }  
+   // method 2  
    void meth2()
    {
 	   try
@@ -40,7 +39,6 @@ public class ExceptionEx1
 		 //  e.printStackTrace();
 	   }
    }
-   
    public static void main(String[] args)
    {
 	  ExceptionEx1 obj=new ExceptionEx1();
