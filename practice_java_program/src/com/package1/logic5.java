@@ -12,6 +12,6 @@ public class logic5
     }
     public static void main(String[] args) 
     {
-		System.out.println(meth1(1,2,1));
+		System.out.println(meth1(1,1,1));
 	}
 }
